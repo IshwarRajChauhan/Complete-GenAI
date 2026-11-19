@@ -40,34 +40,7 @@ Build the LangChain fundamentals needed for the AI Engineer track (agents, RAG, 
 - [ ] Hugging Face integration
 - [ ] Mini projects / deployment
 
-## Setup
 
-```bash
-git clone https://github.com/IshwarRajChauhan/<repo-name>.git
-cd <repo-name>
-python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-cp .env.example .env            # add your API keys
-```
-
-`.env` keys:
-
-```
-OPENAI_API_KEY=
-GROQ_API_KEY=
-HF_TOKEN=
-LANGCHAIN_API_KEY=
-```
-
-## Key Learnings
-
-- _Add one-liners per section as you finish them._
-
-## Next
-
-- Agentic AI Bootcamp (LangGraph)
-- RAG Bootcamp (LangSmith evals)
 
 ## Credits
 
