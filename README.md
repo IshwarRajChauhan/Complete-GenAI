@@ -2,8 +2,6 @@
 
 Hands-on notes and code from Krish Naik's *Complete Generative AI Course With Langchain and Huggingface*.
 
-**Author:** Ishwar ([@IshwarRajChauhan](https://github.com/IshwarRajChauhan))
-**Status:** 🚧 In progress
 
 ## Goal
 
@@ -41,7 +39,3 @@ Build the LangChain fundamentals needed for the AI Engineer track (agents, RAG, 
 - [ ] Mini projects / deployment
 
 
-
-## Credits
-
-Course by [Krish Naik](https://www.youtube.com/@krishnaik06).
